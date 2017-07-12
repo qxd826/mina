@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mina.service</artifactId>
+    <artifactId>mina.server</artifactId>
     <packaging>jar</packaging>
 
     <name>mina.service</name>

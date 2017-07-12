@@ -10,7 +10,7 @@
     <module>mina.common</module>
     <module>mina.dal</module>
     <module>mina.web</module>
-    <module>mina.service</module>
+    <module>mina.server</module>
     <module>mina.client</module>
   </modules>
   <packaging>pom</packaging>
